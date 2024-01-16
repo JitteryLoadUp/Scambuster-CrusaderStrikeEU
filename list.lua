@@ -31,12 +31,10 @@ t.case_table = {
 
     -- The below are all valid configurations.
     [1] = {
-        name = "Arthas",
-        guid = "Player-some-guid12",
+        name = "Jittery",
         category = "raid",
-        description = "Got a bit too upset at demons and had a strop.",
-        url = "https://discord.com/channels/some_discord/channel2",
-        class = "DEATHKNIGHT"
+        faction = "alliance",
+        url = "www.google.com"
     },
 
     [2] = {
