@@ -1,6 +1,6 @@
-# Scambuster-ExampleProvider
-An example provider addon that extends Scambuster with data.
+# Scambuster-CrusaderStrikeEU
+The offical Cursader Strike EU blacklist using SCAMBUSTER!
 - https://github.com/hypernormalisation/Scambuster
 
-For full information on how to customise it, check the wiki pages at:
-- https://github.com/hypernormalisation/Scambuster/wiki/Provider-info
+For information on how to acess the runners of the addon go to...
+- https://discord.gg/RcwxnRnhTr
