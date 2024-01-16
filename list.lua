@@ -37,27 +37,6 @@ t.case_table = {
         url = "www.google.com"
     },
 
-    [2] = {
-        name = "Sylvanas",
-        category = "harassment",
-        url = "https://some_other_url.com/war_of_the_thorns",
-    },
-
-    [3] = {
-        name = "Gallywix",
-        category = "trade",
-        description = "Did not honor payment for boat travel services.",
-        url = "https://www.wowhead.com/guide/story-goblin-starting-area-lore",
-    },
-
-    [4] = {
-        name = "Swedger",
-        category = "raid",
-        url = "https://some_other_url.com/evidence",
-    }
-
-}
-
 
 --=========================================================================================
 -- The provider_table is configured with the above variables, you don't need to touch this.
