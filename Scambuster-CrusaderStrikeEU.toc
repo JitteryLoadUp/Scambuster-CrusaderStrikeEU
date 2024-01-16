@@ -1,5 +1,5 @@
 ## Interface: 30400
-## Title: Scambuster-ExampleProvider
+## Title: Scambuster-CrusaderStrikeEU
 ## Notes: Example Provider addon for Scambuster
 ## Author: Swedge
 ## Version: 1.0.0
